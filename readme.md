@@ -4,23 +4,23 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/CNtrinidad/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/me.jpg" alt="Neko" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Final Project</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  This project shows the culmination of what I have learned from my class.
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=CNtrinidad/WD-Finals)
 
 ---
 
@@ -59,24 +59,49 @@
 <!-- The following are just sample -->
 Description of the project in details.
 
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- What is the project:
+This is my Final Project which is a resume type website that showcases my past projects, information, and history about me.
+
+- Whats the purpose:
+The purpose of this project is to showcase my learnings from my class.
+
+- What are key components:
+The key components are: Being a multipage website that shows my skills and links to other projects. Animation such as hover effects were also added to make it more appealing.
+
+- What technology used and how it is used:
+This project composes of HTML codes and CSS codes. HTML was used to put together the site while the css is for the design.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- MultiPage Website
+- Hover Animations
 
 ### Technology
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+
+## Deployment Link
+https://cntrinidad.github.io/WD-Finals/
+
+## Links to other projects.
+
+- Resume.
+https://cntrinidad.github.io/WD-Seatwork-2-TX03/
+
+- Header & Footer.
+https://cntrinidad.github.io/WD-Seatwork-3-TX03/
+
+- Hero & Card.
+https://cntrinidad.github.io/WD-Hands-on-2-TX03/
+
+- Feature Display.
+https://cntrinidad.github.io/WD-Seatwork-4-TX03/
+
+## WakaTime
+- This is my waka time.
+[![wakatime](https://wakatime.com/badge/user/018ee9d7-1eee-42d0-88c8-dde4200e6df8/project/c02ab191-378a-4614-9cb1-3fb7be7f17ac.svg)](https://wakatime.com/badge/user/018ee9d7-1eee-42d0-88c8-dde4200e6df8/project/c02ab191-378a-4614-9cb1-3fb7be7f17ac)
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -117,4 +142,5 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Images | Background Wallpaper. | https://www.uhdpaper.com/search?q=Anime&by-date=true |
+| Drop shadow | Effects. | https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/drop-shadow |
