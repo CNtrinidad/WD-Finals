@@ -74,7 +74,7 @@ section{
     padding: 20px;
     border: 1px solid #000;
     border-radius: 10px;
-    width: 80%;
+    width: 40%;
     margin: 40px auto;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
@@ -91,8 +91,10 @@ ul{
     padding: 0;
   }
 
-li{
-    margin-bottom: 20px;
+main section ul li{
+    margin-bottom: 30px;
+    display: flex;
+    align-items: center;
 }
 
 a{
@@ -106,14 +108,19 @@ a:hover {
 }
 
 img {
-    width: 200px;
-    height: 150px;
+    width: 400px;
+    height: 200px;
     margin-right: 10px;
     border-radius: 10px;
+    transition: 0.4s;
+}
+
+img:hover{
+    transform: scale(1.1);
 }
 
 h2 {
-    font-size: 18px;
+    font-size: 20px;
     margin-bottom: 10px;
     display: inline-block;
     vertical-align: middle;
@@ -127,4 +134,8 @@ footer{
     padding: 10px;
     text-align: center;
     cursor: default;
+}
+
+footer p{
+    margin: 0;
 }
