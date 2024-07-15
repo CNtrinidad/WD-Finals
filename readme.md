@@ -88,20 +88,23 @@ https://cntrinidad.github.io/WD-Finals/
 ## Links to other projects.
 
 - Resume.
-https://cntrinidad.github.io/WD-Seatwork-2-TX03/
+https://github.com/CNtrinidad/WD-Seatwork-2-TX03
 
 - Header & Footer.
-https://cntrinidad.github.io/WD-Seatwork-3-TX03/
+https://github.com/CNtrinidad/WD-Seatwork-3-TX03
 
 - Hero & Card.
-https://cntrinidad.github.io/WD-Hands-on-2-TX03/
+https://github.com/CNtrinidad/WD-Hands-on-2-TX03
 
 - Feature Display.
-https://cntrinidad.github.io/WD-Seatwork-4-TX03/
+https://github.com/CNtrinidad/WD-Seatwork-4-TX03
 
 ## WakaTime
 - This is my waka time.
+
 [![wakatime](https://wakatime.com/badge/user/018ee9d7-1eee-42d0-88c8-dde4200e6df8/project/c02ab191-378a-4614-9cb1-3fb7be7f17ac.svg)](https://wakatime.com/badge/user/018ee9d7-1eee-42d0-88c8-dde4200e6df8/project/c02ab191-378a-4614-9cb1-3fb7be7f17ac)
+
+https://wakatime.com/@018ee9d7-1eee-42d0-88c8-dde4200e6df8/projects/nyeilsnqui?start=2024-07-09&end=2024-07-15
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
